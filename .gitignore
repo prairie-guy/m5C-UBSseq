@@ -1,2 +1,4 @@
 .snakemake/
+reference/
 data/SRR*
+.*~
